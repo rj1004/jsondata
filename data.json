@@ -1,0 +1,14 @@
+{
+  "total_websites" : 2,
+  "total_app" : 2,
+
+  "Apps" : [
+    {
+      "name" : "News Reader"
+    },
+
+    {
+      "name" : "Expander"
+    }
+  ]
+}
