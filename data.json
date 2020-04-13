@@ -1,14 +1,69 @@
 {
-  "total_websites" : 2,
-  "total_app" : 2,
+  "total_websites" : 4,
+  "total_app" : 5,
 
   "Apps" : [
     {
-      "name" : "News Reader"
+      "id" : 0,
+      "name" : "News Reader",
+      "des" : "",
+      "link" : ""
     },
 
     {
-      "name" : "Expander"
+      "id" : 1,
+      "name" : "Expander",
+      "des" : "",
+      "link" : ""
     }
+    ,
+    {
+      "id" : 2,
+      "name" : "CalC",
+      "des" : "",
+      "link" : ""
+    }
+    ,
+    {
+      "id" : 3,
+      "name" : "Phones",
+      "des" : "",
+      "link" : ""
+    }
+    ,
+    {
+      "id" : 4,
+      "name" : "App Store",
+      "des" : "",
+      "link" : ""
+    }
+  ],
+
+  "Webs" : [
+    {
+      "id" : 0,
+      "name" : "Techo Material",
+      "desc" : "",
+      "link" : "http://techomaterial.ml"
+    },
+    {
+      "id" : 1,
+      "name" : "Rahul About",
+      "desc" : "",
+      "link" : "http://techomaterial.ml/webteam/team.html"
+    },
+    {
+      "id" :2,
+      "name" : "Kanha Events",
+      "desc" : "",
+      "link" : "http://kanhaevents.co.in"
+    },
+    {
+      "id" :3,
+      "name" : "Chamunda Computers",
+      "desc" : "",
+      "link" : "http://chamundacomputers.cf"
+    }
+
   ]
 }
