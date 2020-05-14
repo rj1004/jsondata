@@ -5,7 +5,7 @@
          "iconurl":"sample",
          "id":1,
          "name":"Phones",
-         "rating":"5",
+         "rating":"4.5",
          "size":"12MB",
          "sizenum":12,
          "type":"Tools"
@@ -15,7 +15,7 @@
          "iconurl":"sample",
          "id":2,
          "name":"News Reader",
-         "rating":"5",
+         "rating":"4",
          "size":"12MB",
          "sizenum":12,
          "type":"Social & News"
@@ -25,7 +25,7 @@
          "iconurl":"sample",
          "id":3,
          "name":"TakeBook",
-         "rating":"5",
+         "rating":"4.5",
          "size":"12MB",
          "sizenum":12,
          "type":"Social"
@@ -45,7 +45,7 @@
          "iconurl":"sample",
          "id":5,
          "name":"Insta post saver",
-         "rating":"5",
+         "rating":"4",
          "size":"12MB",
          "sizenum":12,
          "type":"Social"
@@ -55,7 +55,7 @@
          "iconurl":"sample",
          "id":7,
          "name":"Breaking News",
-         "rating":"5",
+         "rating":"4.5",
          "size":"12MB",
          "sizenum":12,
          "type":"Social & News"
@@ -65,7 +65,7 @@
          "iconurl":"sample",
          "id":6,
          "name":"CalC",
-         "rating":"5",
+         "rating":"4",
          "size":"12MB",
          "sizenum":12,
          "type":"Tools"
