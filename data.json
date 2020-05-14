@@ -1,7 +1,7 @@
 {
    "apps":[
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":1,
          "name":"Phones",
@@ -11,7 +11,7 @@
          "type":"Tools"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":2,
          "name":"News Reader",
@@ -21,7 +21,7 @@
          "type":"Social & News"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":3,
          "name":"TakeBook",
@@ -31,7 +31,7 @@
          "type":"Social"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":4,
          "name":"Whatsapp status saver",
@@ -41,7 +41,7 @@
          "type":"Social"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":5,
          "name":"Insta post saver",
@@ -51,7 +51,7 @@
          "type":"Social"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":7,
          "name":"Breaking News",
@@ -61,7 +61,7 @@
          "type":"Social & News"
       },
       {
-         "downloads":100,
+         "downloads":"100+",
          "iconurl":"sample",
          "id":6,
          "name":"CalC",
