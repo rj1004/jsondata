@@ -1,75 +1,230 @@
 {
-   "apps":[
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/phones.png",
-         "id":1,
-         "name":"Phones",
-         "rating":"4.5",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Tools"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/newsreader.png",
-         "id":2,
-         "name":"News Reader",
-         "rating":"4",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Social & News"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/takebook.png",
-         "id":3,
-         "name":"TakeBook",
-         "rating":"4.5",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Social"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/whatsapp.png",
-         "id":4,
-         "name":"Whatsapp status saver",
-         "rating":"5",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Social"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/insta.png",
-         "id":5,
-         "name":"Insta post saver",
-         "rating":"4",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Social"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/breakingnews.png",
-         "id":7,
-         "name":"Breaking News",
-         "rating":"4.5",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Social & News"
-      },
-      {
-         "downloads":"100+",
-         "iconurl":"https://rj1004.github.io/jsondata/AppIcons/calc.png",
-         "id":6,
-         "name":"CalC",
-         "rating":"4",
-         "size":"12MB",
-         "sizenum":12,
-         "type":"Tools"
-      }
-   ],
-   "total":7
+  "apps":[
+    {
+      "downloads":"124",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/phones.png",
+      "id":1,
+      "name":"Phones",
+      "rating":"4.5",
+      "size":"2.6MB",
+      "sizenum":2.6,
+      "type":"Tools",
+
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/1phones.apk",
+      "reviewsnum":"50",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc5.jpeg",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+           
+    },
+
+
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/newsreader.png",
+      "id":2,
+      "name":"News Reader",
+      "rating":"4",
+      "size":"2.6MB",
+      "sizenum":2.6,
+      "type":"Social & News",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/2newsreader.apk",
+      "reviewsnum":"20",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/newsreader/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/newsreader/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    },
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/takebook.png",
+      "id":3,
+      "name":"TakeBook",
+      "rating":"4.5",
+      "size":"11MB",
+      "sizenum":11,
+      "type":"Social",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/3takebook.apk",
+      "reviewsnum":"35",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc5.jpeg",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    },
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/whatsapp.png",
+      "id":4,
+      "name":"Whatsapp status saver",
+      "rating":"5",
+      "size":"5MB",
+      "sizenum":4.7,
+      "type":"Social",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/4whatsappstatussaver.apk",
+      "reviewsnum":"69",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc5.jpeg",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    },
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/insta.png",
+      "id":5,
+      "name":"Insta post saver",
+      "rating":"4",
+      "size":"5MB",
+      "sizenum":4.9,
+      "type":"Social",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/5instapostsaver.apk",
+      "reviewsnum":"65",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    },
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/breakingnews.png",
+      "id":7,
+      "name":"Breaking News",
+      "rating":"4.5",
+      "size":"6MB",
+      "sizenum":5.9,
+      "type":"Social & News",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/7breakingnews.apk",
+      "reviewsnum":"46",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    },
+    {
+      "downloads":"100",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/calc.png",
+      "id":6,
+      "name":"CalC",
+      "rating":"4",
+      "size":"2.3MB",
+      "sizenum":2.3,
+      "type":"Tools",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/6calc.apk",
+      "reviewsnum":"34",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "",
+      "reviewname1":"",
+      "reviewdetail1":"",
+      "reviewname2":"",
+      "reviewdetail2":"",
+      "reviewname3":"",
+      "reviewdetail3":"",
+
+      "devcom":"",
+      "devweb":"",
+      "devemail":"",
+      "devpolicy":""
+    }
+  ],
+  "total":7
 }
