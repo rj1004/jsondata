@@ -14,7 +14,7 @@
 
 
       "apkurl":"https://rj1004.github.io/jsondata/apks/1phones.apk",
-      "reviewsnum":"50",
+      "reviewsnum":"67",
       "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc1.jpeg",
       "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc2.jpeg",
       "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc3.jpeg",
@@ -24,20 +24,21 @@
 
 
 
-      "about": "Phones a simple contact management and personalization of incoming and outgoing calls. We have developed and are constantly adding threads to replace the boring, standard calls.\n PROTECT YOUR CONTACTS
-In addition to the fact that your calls will become more attractive, Phone + protects your data thanks to an integrated system backup and synchronization. Easily backup your contacts and call history, so that they always remain with you!\n
+      "about": "Phones a simple contact management and personalization of incoming and outgoing calls. We have developed and are constantly adding threads to replace the boring, standard calls.\n PROTECT YOUR CONTACTS\n
+In addition to the fact that your calls will become more attractive, Phones protects your data thanks to an integrated system backup and synchronization. Easily backup your contacts and call history, so that they always remain with you!\n
 
 CUSTOMISATION\n
 In addition, Phones is something that belongs to you and that you can adjust by itself. Your contacts will never be disclosed or sent to a third party. You can choose different themes and options that are convenient for you!",
 
 
 
-      "reviewname1":"",
-      "reviewdetail1":"",
-      "reviewname2":"",
-      "reviewdetail2":"",
-      "reviewname3":"",
-      "reviewdetail3":"",
+      "reviewname1":"Steve John",
+      "reviewdetail1":"Much simpler layout than Samsung's default phone app. Easy to use, has a handy call recording feature built in. One of the few apps I've actually paid for to remove ads as its worth it. Great work Devs 👍👍",
+
+      "reviewname2":"Mark Hussy",
+      "reviewdetail2":"Thanks to the Developer. It's one of the Helpful Apps, I've been installed this App on/ off since Year 2019, and I used it mostly for calling not texting.",
+      "reviewname3":"Siva Rob",
+      "reviewdetail3":"Very nice, I like the clear phone list,the phone and contact 's is definitely a must have. Thanks,Developer",
 
       "devcom":"Rahul's & Company",
       "devweb":"https://wa.me/919157755527",
