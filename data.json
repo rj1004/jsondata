@@ -1,0 +1,349 @@
+{
+  "apps":[
+    {
+      "downloads":"124",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/phones.png",
+      "id":1,
+      "name":"Phones",
+      "rating":"4.5",
+      "size":"2.6MB",
+      "sizenum":2618,
+      "type":"Tools",
+
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/1phones.apk",
+      "reviewsnum":"67",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/phones/sc5.jpeg",
+
+
+
+
+      "about": "Phones a simple contact management and personalization of incoming and outgoing calls. We have developed and are constantly adding threads to replace the boring, standard calls.\n PROTECT YOUR CONTACTS\n
+In addition to the fact that your calls will become more attractive, Phones protects your data thanks to an integrated system backup and synchronization. Easily backup your contacts and call history, so that they always remain with you!\n
+CUSTOMISATION\n
+In addition, Phones is something that belongs to you and that you can adjust by itself. Your contacts will never be disclosed or sent to a third party. You can choose different themes and options that are convenient for you!",
+
+
+
+      "reviewname1":"Steve John",
+      "reviewdetail1":"Much simpler layout than Samsung's default phone app. Easy to use, has a handy call recording feature built in. One of the few apps I've actually paid for to remove ads as its worth it. Great work Devs 👍👍",
+
+      "reviewname2":"Mark Hussy",
+      "reviewdetail2":"Thanks to the Developer. It's one of the Helpful Apps, I've been installed this App on/ off since Year 2019, and I used it mostly for calling not texting.",
+      "reviewname3":"Siva Rob",
+      "reviewdetail3":"Very nice, I like the clear phone list,the phone and contact 's is definitely a must have. Thanks,Developer",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+           
+    },
+
+
+    {
+      "downloads":"121",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/newsreader.png",
+      "id":2,
+      "name":"News Reader",
+      "rating":"4",
+      "size":"2.6MB",
+      "sizenum":2615,
+      "type":"Social & News",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/2newsreader.apk",
+      "reviewsnum":"20",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/newsreader/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/newsreader/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+
+
+
+
+      "about": "News Reader is here ! News Reader use the RSS from Google News (news.google.com) to display data with elegance.\n
+News Reader is Fast, with a simple and contemporary interface.\n
+You can browse Google topic :\n
+- Top Stories\n
+- World\n
+- Most Readed\n
+- Country informations\n
+- Business\n
+- Technology\n
+- Entertainment\n
+- Sports\n
+- Science\n
+- Health\n
+- Spotlight\n
+- News near you\n",
+
+
+
+
+
+      "reviewname1":"Simon Roff",
+      "reviewdetail1":"I've been searching for a new news app for about a month, since my previous favourite 'Simply News' was discontinued, and this gives me just what I want. The option to view different publications version of the same news item is really good. Being able to add categories is great.",
+      "reviewname2":"Ben Groge",
+      "reviewdetail2":"This is a great app. Everything I want to read exactly where I want it the layout is very nice. You can all be proud of yourselves for doing such a great job!!!",
+      "reviewname3":"Crystal Berry",
+      "reviewdetail3":"Love it. I install it with each new phone. Never had a hiccup with it and it gives me a variety of sources.",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"82",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/takebook.png",
+      "id":3,
+      "name":"TakeBook",
+      "rating":"4.5",
+      "size":"11MB",
+      "sizenum":10995,
+      "type":"Social",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/3takebook.apk",
+      "reviewsnum":"35",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/takebook/sc5.jpeg",
+
+
+      "about": "Takebook is a FREE messaging app available for Android and other smartphones. Takebook uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi, as available) to let you message. Switch from SMS to WhatsApp to send and receive messages.\n
+      • GROUP CHAT: Enjoy group chats with your contacts so you can easily stay in touch with your friends or family.\n
+      • ALWAYS LOGGED IN: With Takebook, you're always logged in so you don't miss messages. No more confusion about whether you're logged in or logged out.\n",
+
+      "reviewname1":"Steve Mess",
+      "reviewdetail1":"Great App To Communicat with Public.Great Job Developer",
+      "reviewname2":"Mis Macly",
+      "reviewdetail2":"Best App For Group Chat And Public Chat .Best Performance For Login System and it is Efficient also.",
+      "reviewname3":"Developer",
+      "reviewdetail3":"This Is my first try to develope the app for communication and i will try to do best .",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"190",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/whatsapp.png",
+      "id":4,
+      "name":"Whatsapp status saver",
+      "rating":"4.5",
+      "size":"5MB",
+      "sizenum":4701,
+      "type":"Social",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/4whatsappstatussaver.apk",
+      "reviewsnum":"69",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/whatsappstatussaver/sc5.jpeg",
+
+
+
+      "about": "Want to download images and videos from WhatsApp Status? Looking for an app that can easily save video status and photo status fast and free? Then this Status Saver and Status Downloader for WhatsApp is definitely what you want!\n
+🏆Status Saver for WhatsApp - Download & Save Status🏆can help you download images and photos from WhatsApp Status in simple steps. It is super fast 🚀 and 100% free.\n
+With Status Saver for WhatsApp - Download & Save Status app. You can easily save videos and images from WhatsApp Status to your Android device. This way, you can enjoy downloaded status photos and status videos anytime, anywhere, or share them with friends, or repost downloaded status to other social medias.\n
+So please install this Status Saver for WhatsApp - Download & Save Status app and have a try now！\n
+How to use\n
+1️⃣ Open WhatsApp and view wanted status\n
+2️⃣ Open this app (Status Saver for WhatsApp)\n
+3️⃣ Save wanted images and videos\n
+Done! 🎉🎉🎉\n",
+
+
+
+
+      "reviewname1":"Mave Hilly",
+      "reviewdetail1":"Amazing app, I don't have to beg my friends to send me videos on their status anymore. But the ads are too much, if ut can be reduced, it'll be much more better",
+      "reviewname2":"Otis Jim",
+      "reviewdetail2":"Very fast and easy to use. No too much ads. Its great.",
+      "reviewname3":"Ola drek",
+      "reviewdetail3":"This app is very good, because it helps me to download someone status in excellent way without facing no problem",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"152",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/insta.png",
+      "id":5,
+      "name":"Insta post saver",
+      "rating":"4",
+      "size":"5MB",
+      "sizenum":4882,
+      "type":"Social",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/5instapostsaver.apk",
+      "reviewsnum":"65",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/instapostsaver/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+
+
+
+      "about": "Wanna download and repost videos and images from Instagram and IGTV? It is simple now! You just need Instagram video downloader. With Instagram Video Downloader, you can copy tags from Instagram and Vine easily.\n
+With just one click, Instagram Video Downloader will help you download or repost your favorite videos and pictures on Instagram and Vine. And it is 100% FREE.\n",
+
+
+      "reviewname1":"Jin",
+      "reviewdetail1":"It's easy to use...so easy to download any video from insta...doesn't need to struggle to download any video...it downloads video in second...I liked it very much..",
+      "reviewname2":"JL Lighten",
+      "reviewdetail2":"It's a awesome app . it takes very little time to download the video . It downloads very smoothly.",
+      "reviewname3":"Syed Osman",
+      "reviewdetail3":"I love love love this app, it works really good, since ive downloaded it, not once did it crash and it gets the job done.",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"72",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/breakingnews.png",
+      "id":7,
+      "name":"Breaking News",
+      "rating":"4.5",
+      "size":"6MB",
+      "sizenum":5906,
+      "type":"Social & News",
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/7breakingnews.apk",
+      "reviewsnum":"46",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/breakingnews/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+
+
+      "about": "Breaking News is here ! Breaking News use the RSS from Google News (news.google.com) to display data with elegance.\n
+Breaking News is Fast, with a simple and contemporary interface.\n
+You can browse Google topic :\n
+- Top Stories\n
+- World\n
+- Most Readed\n
+- Country informations\n
+- Business\n
+- Technology\n
+- Entertainment\n
+- Sports\n
+- Science\n
+- Health\n
+- Spotlight\n
+- News near you\n",
+
+
+
+      "reviewname1":"Simon Roff",
+      "reviewdetail1":"I've been searching for a new news app for about a month, since my previous favourite 'Simply News' was discontinued, and this gives me just what I want. The option to view different publications version of the same news item is really good. Being able to add categories is great.",
+      "reviewname2":"Ben Groge",
+      "reviewdetail2":"This is a great app. Everything I want to read exactly where I want it the layout is very nice. You can all be proud of yourselves for doing such a great job!!!",
+      "reviewname3":"Crystal Berry",
+      "reviewdetail3":"Love it. I install it with each new phone. Never had a hiccup with it and it gives me a variety of sources.",
+
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"61",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/calc.png",
+      "id":6,
+      "name":"CalC",
+      "rating":"4",
+      "size":"2.3MB",
+      "sizenum":2333,
+      "type":"Tools",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/6calc.apk",
+      "reviewsnum":"34",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/calc/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "Calculator provides simple and advanced mathematical functions in a beautifully designed app.\n
+• Perform basic calculations such as addition, subtraction, multiplication, and division\n
+• Do scientific operations such as trigonometric, logarithmic, and exponential functions\n",
+      "reviewname1":"Carmen",
+      "reviewdetail1":"The app is fairly basic. Just wish it would give an option to choose a type of calculator so it made doing different kinds of math much easier, but as a basic calculator goes it does the trick. Also would love to be able to customize the theme",
+      "reviewname2":"Lester bell",
+      "reviewdetail2":"Nice calculator. Please open source this calculator on GitHub so that it can become better than ever. I am giving four stars to this calculator as it found it a little limited. It does not provide the programmer mode. Also it lacks the unit converters (length, mass currency etc.).",
+      "reviewname3":"Greg Joge",
+      "reviewdetail3":"Its important to have this particular useful app . Especially when you dealing with calculating expenses or math problems and want to make sure you figured it out correctly!",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    },
+    {
+      "downloads":"125",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/papersin.png",
+      "id":8,
+      "name":"Papers.in",
+      "rating":"4.5",
+      "size":"2.3MB",
+      "sizenum":3124,
+      "type":"Tools",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/8papersin.apk",
+      "reviewsnum":"50",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/papersin/sc1.jpeg",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/papersin/sc2.jpeg",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/papersin/sc3.jpeg",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/papersin/sc4.jpeg",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "Papers.in\nIt is Basic And Easy To Use.\nSearched Base Wallpaper Or Filter Base Wallpaper is available to it.\nDownload Now and get Satisfied With Wallpapers..\nEnjoy.",
+      "reviewname1":"Carmen",
+      "reviewdetail1":"The app is fairly basic. Just wish it would give an option to choose a type of Wallpaper so it made doing different kinds of papers much easier, but as a basic goes it does the trick. Also would love to be able to customize the theme",
+      "reviewname2":"Lester bell",
+      "reviewdetail2":"Nice App. Please open source this Papers.in on GitHub so that it can become better than ever. I am giving four stars to this App as it found it a little limited. It does not provide the programmer mode.",
+      "reviewname3":"Greg Joge",
+      "reviewdetail3":"Its important to have this particular useful app . Especially when you dealing with Wallpapers and want to make sure you figured it out correctly!",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    }
+
+
+  ],
+  "total":8,
+  "version":1,
+  "appstore":"https://rj1004.github.io/jsondata/AppStore.apk",
+  "appstoresize":2111
+}
