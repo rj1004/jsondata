@@ -412,10 +412,46 @@ You can browse Google topic :\n
       "devemail":"rahulparmar1004@gmail.com",
       "devpolicy":""
     }
+    ,
+    
+    {
+      "downloads":"2024",
+      "iconurl":"https://rj1004.github.io/jsondata/AppIcons/livelocation.png",
+      "id":11,
+      "name":"LiveLocation",
+      "rating":"5",
+      "size":"8.9MB",
+      "sizenum":9000,
+      "type":"Security & tools",
+
+
+
+      "apkurl":"https://rj1004.github.io/jsondata/apks/11livelocation.apk",
+      "reviewsnum":"34",
+      "sc1url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc2url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc3url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc4url":"https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "sc5url": "https://rj1004.github.io/jsondata/Screenshotsapks/store.png",
+      "about": "Calculator provides simple and advanced mathematical functions in a beautifully designed app.\n
+• Perform basic calculations such as addition, subtraction, multiplication, and division\n
+• Do scientific operations such as trigonometric, logarithmic, and exponential functions\n",
+      "reviewname1":"Carmen",
+      "reviewdetail1":"The app is fairly basic. Just wish it would give an option to choose a type of calculator so it made doing different kinds of math much easier, but as a basic calculator goes it does the trick. Also would love to be able to customize the theme",
+      "reviewname2":"Lester bell",
+      "reviewdetail2":"Nice calculator. Please open source this calculator on GitHub so that it can become better than ever. I am giving four stars to this calculator as it found it a little limited. It does not provide the programmer mode. Also it lacks the unit converters (length, mass currency etc.).",
+      "reviewname3":"Greg Joge",
+      "reviewdetail3":"Its important to have this particular useful app . Especially when you dealing with calculating expenses or math problems and want to make sure you figured it out correctly!",
+
+      "devcom":"Rahul's & Company",
+      "devweb":"https://wa.me/919157755527",
+      "devemail":"rahulparmar1004@gmail.com",
+      "devpolicy":""
+    }
 
 
   ],
-  "total":10,
+  "total":11,
   "version":1,
   "appstore":"https://rj1004.github.io/jsondata/AppStore.apk",
   "appstoresize":2111
